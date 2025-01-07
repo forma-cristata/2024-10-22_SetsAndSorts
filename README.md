@@ -13,7 +13,7 @@ A high-performance C++ implementation of a generic array-based set data structur
     - Bidirectional Bubble Sort
     - Odd-Even Sort
 
-## Key Functionalities
+## Functionalities
 
 - Efficient element insertion and removal
 - Duplicate prevention
